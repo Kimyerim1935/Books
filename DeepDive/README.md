@@ -17,3 +17,4 @@
 ✔️ [생성자 함수에 의한 객체 생성](/DeepDive/생성자%20함수에%20의한%20객체%20생성.md)<br/>
 ✔️ [함수와 일급 객체](/DeepDive/함수와%20일급%20객체.md)<br/>
 ✔️ [프로토타입](/DeepDive/프로토타입.md)<br/>
+✔️ [strict mode](/DeepDive/strict%20mode.md)
