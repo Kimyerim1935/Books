@@ -19,3 +19,4 @@
 ✔️ [프로토타입](/DeepDive/프로토타입.md)<br/>
 ✔️ [strict mode](/DeepDive/strict%20mode.md)<br/>
 ✔️ [빌트인 객체](/DeepDive/빌트인%20객체.md)<br/>
+✔️ [this](/DeepDive/this.md)<br/>
