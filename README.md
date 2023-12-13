@@ -1,5 +1,5 @@
 # Link
-[Books]([https://app.gitbook.com/o/b0ZXacuQvcKeslZIUAlX/s/OFj7CSlgnb7lcfz50ECg/](https://rims-organization.gitbook.io/books/))
+[Books](https://rims-organization.gitbook.io/books/)
 
 ## 📚목록
 
