@@ -1,7 +1,3 @@
-# Link
-
-[Books](https://rims-organization.gitbook.io/books-1/)
-
 ## 📚목록
 
 - [모던 자바스크립트 딥다이브](./DeepDive/README.md)
