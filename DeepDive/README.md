@@ -1,4 +1,6 @@
-## 📘모던 자바스크립트 딥다이브
+# 📘모던 자바스크립트 딥다이브
+
+[노션에서 보기](https://deep-dive-javascript.notion.site/Deep-Dive-5625004317dd41a3ae1b0dad8b62b9c9?pvs=4)
 
 ### 🗒️목차
 
