@@ -1,6 +1,6 @@
 # Link
 
-[Books](https://rims-organization.gitbook.io/books/)
+[Books](https://rims-organization.gitbook.io/books-1/)
 
 ## 📚목록
 

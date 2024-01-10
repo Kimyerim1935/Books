@@ -1,4 +1,4 @@
-* [책 목록](./README.md)
+* [목록](./README.md)
 * [모던 자바스크립트 딥다이브](./DeepDive/README.md)
   * [프로그래밍](./DeepDive/프로그래밍.md)
   * [자바스크립트란?](./DeepDive/자바스크립트란.md)
